@@ -1,5 +1,4 @@
-﻿using PIM.DataContext;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +10,6 @@ namespace PIM.Web.Controllers
     {
         public ActionResult Index()
         {
-            PIMContext context = new PIMContext();
             
             
             return View();
