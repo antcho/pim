@@ -1,0 +1,5 @@
+c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\Entities\bin\Debug\Entities.dll.config
+c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\Entities\bin\Debug\Entities.dll
+c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\Entities\bin\Debug\Entities.pdb
+c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\Entities\obj\Debug\Entities.dll
+c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\Entities\obj\Debug\Entities.pdb
