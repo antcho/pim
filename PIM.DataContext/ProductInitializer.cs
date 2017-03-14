@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PIM.DataContext
 {
-    public class ProductInitializer : DropCreateDatabaseAlways<PIMContext>
+    public class ProductInitializer : DropCreateDatabaseIfModelChanges<PIMContext>
     {
 
         protected override void Seed(PIMContext context)
