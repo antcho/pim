@@ -1,52 +1,116 @@
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\csc.exe
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\System.Collections.Immutable.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\System.Reflection.Metadata.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\vbc.exe
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\VBCSCompiler.exe
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\roslyn\VBCSCompiler.exe.config
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\PIM.Web.dll.config
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\PIM.Web.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\PIM.Web.pdb
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\Antlr3.Runtime.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\EntityFramework.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\EntityFramework.SqlServer.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\Microsoft.Web.Infrastructure.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\Newtonsoft.Json.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Helpers.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Mvc.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Optimization.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Razor.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.WebPages.Deployment.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.WebPages.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.WebPages.Razor.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\WebGrease.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Helpers.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Mvc.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Optimization.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.Razor.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.WebPages.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.WebPages.Deployment.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\System.Web.WebPages.Razor.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\Antlr3.Runtime.pdb
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\Newtonsoft.Json.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\EntityFramework.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\EntityFramework.SqlServer.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\System.Web.Helpers.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\System.Web.Mvc.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\System.Web.Optimization.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\System.Web.Razor.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\System.Web.WebPages.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\System.Web.WebPages.Deployment.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\System.Web.WebPages.Razor.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\obj\Debug\PIM.Web.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\obj\Debug\PIM.Web.pdb
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\EntityFramework.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.Web\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\csc.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\vbc.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\PIM.Web.dll.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\PIM.Web.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\PIM.Web.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Antlr3.Runtime.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Entities.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\EntityFramework.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Newtonsoft.Json.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\PIM.DataContext.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Helpers.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Mvc.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Optimization.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Razor.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.WebPages.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\WebGrease.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Entities.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\PIM.DataContext.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Helpers.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Mvc.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Optimization.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.Razor.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.WebPages.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Antlr3.Runtime.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\Newtonsoft.Json.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\EntityFramework.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\System.Web.Razor.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\EntityFramework.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\obj\Debug\PIM.Web.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\obj\Debug\PIM.Web.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.Web\obj\Debug\PIM.Web.pdb
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\csc.exe
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\vbc.exe
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\antch\Desktop\pim\PIM.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\antch\Desktop\pim\PIM.Web\bin\PIM.Web.dll.config
+C:\Users\antch\Desktop\pim\PIM.Web\bin\PIM.Web.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\PIM.Web.pdb
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Antlr3.Runtime.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Entities.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\EntityFramework.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Newtonsoft.Json.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\PIM.DataContext.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Helpers.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Mvc.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Optimization.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Razor.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.WebPages.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\WebGrease.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Entities.pdb
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Entities.dll.config
+C:\Users\antch\Desktop\pim\PIM.Web\bin\PIM.DataContext.pdb
+C:\Users\antch\Desktop\pim\PIM.Web\bin\PIM.DataContext.dll.config
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Helpers.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Mvc.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Optimization.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.Razor.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.WebPages.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Antlr3.Runtime.pdb
+C:\Users\antch\Desktop\pim\PIM.Web\bin\Newtonsoft.Json.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\EntityFramework.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\System.Web.Razor.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\EntityFramework.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\antch\Desktop\pim\PIM.Web\obj\Debug\PIM.Web.csprojResolveAssemblyReference.cache
+C:\Users\antch\Desktop\pim\PIM.Web\obj\Debug\PIM.Web.dll
+C:\Users\antch\Desktop\pim\PIM.Web\obj\Debug\PIM.Web.pdb

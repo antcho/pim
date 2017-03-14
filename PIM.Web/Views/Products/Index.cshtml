@@ -7,7 +7,8 @@
 <h2>Index</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    <a href="@Url.Action("Create", "Products")" class="glyphicon glyphicon-plus" style="color:darkseagreen; text-decoration:none;">
+    </a>
 </p>
 <table class="table">
     <tr>
@@ -50,12 +51,15 @@
             @Html.DisplayFor(modelItem => item.ValidityDate)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Image)
+            <img src=@item.Image Width="100" Height="50"/>
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Reference }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Reference }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Reference })
+            <a href="@Url.Action("Edit", "Products", new { id=item.Reference })" class="glyphicon glyphicon-edit" text-decoration:none;">
+            </a>
+            <a href="@Url.Action("Details", "Products", new { id=item.Reference })" class="glyphicon glyphicon-info-sign" style="color:blue; text-decoration:none;">
+            </a>
+            <a href="@Url.Action("Delete", "Products", new { id=item.Reference })" class="glyphicon glyphicon-remove" style="color:red; text-decoration:none;">
+            </a>
         </td>
     </tr>
 }

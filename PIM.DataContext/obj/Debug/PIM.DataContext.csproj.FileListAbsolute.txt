@@ -1,14 +1,29 @@
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\PIM.DataContext.dll.config
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\PIM.DataContext.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\PIM.DataContext.pdb
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\Entities.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\EntityFramework.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\EntityFramework.SqlServer.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\Entities.pdb
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\EntityFramework.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\EntityFramework.SqlServer.xml
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\obj\Debug\PIM.DataContext.csprojResolveAssemblyReference.cache
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\obj\Debug\PIM.DataContext.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\obj\Debug\PIM.DataContext.pdb
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\fr\EntityFramework.resources.dll
-c:\Users\utilisateur\Documents\Visual Studio 2015\Projects\PIM\PIM.DataContext\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\PIM.DataContext.dll.config
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\PIM.DataContext.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\PIM.DataContext.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\Entities.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\EntityFramework.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\Entities.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\EntityFramework.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\obj\Debug\PIM.DataContext.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\obj\Debug\PIM.DataContext.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\obj\Debug\PIM.DataContext.pdb
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\utilisateur\Documents\Visual Studio 2015\Projects\pim\PIM.DataContext\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\PIM.DataContext.dll.config
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\PIM.DataContext.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\PIM.DataContext.pdb
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\Entities.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\EntityFramework.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\Entities.pdb
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\Entities.dll.config
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\EntityFramework.xml
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\obj\Debug\PIM.DataContext.csprojResolveAssemblyReference.cache
+C:\Users\antch\Desktop\pim\PIM.DataContext\obj\Debug\PIM.DataContext.dll
+C:\Users\antch\Desktop\pim\PIM.DataContext\obj\Debug\PIM.DataContext.pdb

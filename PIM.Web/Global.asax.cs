@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PIM.DataContext;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -15,6 +16,11 @@ namespace PIM.Web
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            System.Data.Entity.Database.SetInitializer(new ProductInitializer());
+
+            PIMContext db = new PIMContext();
+            db.Database.Initialize(true);
         }
     }
 }

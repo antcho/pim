@@ -11,9 +11,12 @@ namespace Entities
     {
         [Key]
         public int Reference { get; set; }
+        [Required]
         public string Name { get; set; }
         public string Description { get; set; }
+        [Required]
         public decimal Price { get; set; }
+        [Required]
         public string Category { get; set; }
         public DateTime ValidityDate{ get; set; }
         public string Image { get; set; }

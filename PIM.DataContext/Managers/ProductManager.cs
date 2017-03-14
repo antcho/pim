@@ -32,7 +32,7 @@ namespace PIM.DataContext.Managers
          
         }
         
-        public bool Delete(int id)
+        public bool Delete(int? id)
         {
             var p = _repository.Get<Product>(id);
 
@@ -57,7 +57,7 @@ namespace PIM.DataContext.Managers
            
         }
 
-        public Product Get(int reference)
+        public Product Get(int? reference)
         {
             return _repository.Get<Product>(reference);
         }
@@ -67,7 +67,7 @@ namespace PIM.DataContext.Managers
             return _repository.Find<Product>(p => p.Reference != null).ToList();
         }
    
-        public bool Update(int id, Product p)
+        public bool Update(Product p)
         {
             _repository.Update<Product>(p);
             _repository.SaveChanges();
