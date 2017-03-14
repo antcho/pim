@@ -1,13 +1,13 @@
 ﻿@model Entities.Product
 
 @{
-    ViewBag.Title = "Details";
+    ViewBag.Title = "Détails";
 }
 
-<h2>Details</h2>
+<h2>Détails</h2>
 
 <div>
-    <h4>Product</h4>
+    <h4>Produit</h4>
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -61,6 +61,6 @@
     </dl>
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.Reference }) |
+    @Html.ActionLink("Editer", "Edit", new { id = Model.Reference }) |
     @Html.ActionLink("Retour à la liste", "Index")
 </p>
