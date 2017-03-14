@@ -16,9 +16,19 @@ namespace PIM.Web.Controllers
         private ProductManager _productManager = new ProductManager();
 
         // GET: Products
-        public ActionResult Index()
+        public ActionResult Index(string search)
         {
-            return View(_productManager.GetAll());
+            List<Product> products;
+            if(!string.IsNullOrWhiteSpace(search))
+            {
+                products = _productManager.Find(p => p.Name.Contains(search) || p.Description.Contains(search) || p.Category.Contains(search));
+            }
+            else
+            {
+                products = _productManager.GetAll();
+            }
+
+            return View(products);
         }
 
         // GET: Products/Details/5
@@ -43,8 +53,6 @@ namespace PIM.Web.Controllers
         }
 
         // POST: Products/Create
-        // Afin de déjouer les attaques par sur-validation, activez les propriétés spécifiques que vous voulez lier. Pour 
-        // plus de détails, voir  http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Reference,Name,Description,Price,Category,ValidityDate,Image")] Product product)
@@ -75,8 +83,6 @@ namespace PIM.Web.Controllers
         }
 
         // POST: Products/Edit/5
-        // Afin de déjouer les attaques par sur-validation, activez les propriétés spécifiques que vous voulez lier. Pour 
-        // plus de détails, voir  http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit([Bind(Include = "Reference,Name,Description,Price,Category,ValidityDate,Image")] Product product)

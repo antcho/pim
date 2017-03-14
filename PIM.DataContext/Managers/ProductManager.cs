@@ -3,6 +3,7 @@ using PIM.DataContext.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -67,6 +68,11 @@ namespace PIM.DataContext.Managers
             return _repository.Find<Product>(p => p.Reference != null).ToList();
         }
    
+        public List<Product> Find(Expression<Func<Product, bool>> predicate)
+        {
+            return _repository.Find<Product>(predicate).ToList();
+        }
+
         public bool Update(Product p)
         {
             _repository.Update<Product>(p);
