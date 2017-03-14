@@ -67,6 +67,11 @@ namespace PIM.DataContext.Managers
         {
             return _repository.Find<Product>(p => p.Reference != null).ToList();
         }
+
+        public List<Product> GetFromCategory(String category)
+        {
+            return _repository.Find<Product>(p => p.Category.Equals(category)).ToList();
+        }
    
         public List<Product> Find(Expression<Func<Product, bool>> predicate)
         {
