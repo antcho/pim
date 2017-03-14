@@ -19,6 +19,7 @@ namespace Entities
         public string Description { get; set; }
         [Required]
         [Display(Name = "Prix")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:c}")]
         public decimal Price { get; set; }
         [Required]
         [Display(Name = "Catégorie")]
